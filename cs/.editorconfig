@@ -1,3 +1,6 @@
+[*.{sln,csproj}]
+end_of_line = crlf
+
 [*.cs]
 #### .NET Coding Conventions ####
 
